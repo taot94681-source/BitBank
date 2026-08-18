@@ -1,0 +1,30 @@
+---
+description: BitBank Figma 中英文两套页面必须对照同步，禁止同一屏中英混排
+alwaysApply: true
+---
+
+# Figma 中 / 英两套 C-end
+
+文件：https://www.figma.com/design/n1Zw0RwbhpOqxLkJfBdp5V/BitBank
+
+| 语言 | Figma Page | 主屏 |
+|------|------------|------|
+| 中文 | `01 C-end` | `01 Home` `102:50` · `02 Eco / 生态` `107:62` · `03 Assets / 资产` `111:98` · `04 Me / 我的` `117:110` |
+| 英文 | `02 C-end EN` | `01 Home EN` `174:123` · `02 Eco EN` `174:309` · `03 Assets EN` `174:390` · `04 Me EN` `174:517` |
+
+对照表：`figma/cn-en-map.json`
+
+## 硬规则
+
+- 同一屏不要中英混排。产品名可保留：BitBank、BTC、BTCX、USDT、BitSIM、BitPay、周期码（7D / 180D）、等级码（V3 BUILDER）。
+- 中文页改布局 / 组件 / 间距 / 配色 / 插图后，英文页必须对照改，不能只改一边。
+- 用户说「我修改了 XX 页面，同步到英文页」时：先分别导出两边结构 + 文案 + 截图，diff 后再改英文页。不要把中文文案贴到英文页。
+- 英文页只替换文案并处理换行 / 居中，结构以中文页为准。
+- 底栏 `BB/TabBar` 是同一组件：中文实例覆盖 首页/生态/资产/我的，英文实例覆盖 Home/Eco/Assets/Me。
+
+## 同步步骤
+
+1. 在中文页找到被改的 frame，在 `cn-en-map.json` 取对应英文 `enId`。
+2. Diff：图层树、尺寸、间距、fills、effects、imageHash；文案用 glossary，不直接拷 characters。
+3. 结构跟中文走，文案走英文 glossary；新句子先补 glossary 再写入英文页。
+4. 两页各截一张图确认无混排、无漏同步。
