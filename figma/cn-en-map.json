@@ -29,10 +29,10 @@
     { "key": "assetsPay", "cnId": "549:15135", "cnName": "03 Assets · BitPay", "enId": "260:635", "enName": "03 Assets · BitPay EN" },
     { "key": "assetsSim", "cnId": "549:15155", "cnName": "03 Assets · BitSIM", "enId": "260:814", "enName": "03 Assets · BitSIM EN" },
     { "key": "assetsSimActive", "cnId": "549:15175", "cnName": "03 Assets · BitSIM · 已开通", "enId": "338:935", "enName": "03 Assets · BitSIM · Active EN" },
-    { "key": "me", "cnId": "771:2707", "cnName": "04 Me / 我的", "enId": "784:1338", "enName": "04 Me EN", "note": "旧开关稿·备用；方案2见 meSchemeC" },
-    { "key": "meSchemeB", "cnId": "802:1406", "cnName": "04 Me · 方案2 功能排版 B", "enId": "803:1176", "enName": "04 Me EN · Scheme2 B", "note": "权益/服务四格（功能占位）" },
-    { "key": "meSchemeC", "cnId": "802:1508", "cnName": "04 Me · 方案2 功能排版 C", "enId": "803:1278", "enName": "04 Me EN · Scheme2 C", "note": "权益/服务四格+大装饰占位；等设计图" },
-    { "key": "meSchemeBoard", "cnId": "801:1398", "cnName": "我的 · 方案2 对照", "enId": null, "note": "权益/服务功能排版对照" },
+    { "key": "me", "cnId": "802:1508", "cnName": "04 Me / 我的", "enId": "803:1278", "enName": "04 Me EN", "note": "正式稿：邀请大卡+权益列表+服务2×2+更多；身份条保留" },
+    { "key": "meLegacySwitch", "cnId": "771:2707", "cnName": "04 Me / 我的（旧开关·备用）", "enId": "784:1338", "enName": "04 Me EN（旧开关·备用）", "note": "已隐藏；安全/通知开关旧稿", "status": "retired" },
+    { "key": "meSchemeB", "cnId": "802:1406", "cnName": "04 Me · 方案2 B（备用）", "enId": "803:1176", "enName": "04 Me EN · Scheme2 B（备用）", "note": "已隐藏", "status": "retired" },
+    { "key": "meSchemeBoard", "cnId": "801:1398", "cnName": "我的 · 方案2 对照", "enId": null, "note": "已隐藏", "status": "retired" },
 
     { "key": "paySend", "cnId": "549:15551", "cnName": "S01 BitPay · 发起支付", "enId": "452:2350", "enName": "S01 BitPay · Send payment EN" },
     { "key": "paySendRail", "cnId": "757:1332", "cnName": "S01b BitPay · 发起支付 · 路径", "enId": "758:1170", "enName": "S01b BitPay · Send payment · Rail EN" },
@@ -74,12 +74,12 @@
     { "key": "assetsCardFaq", "cnId": "799:1338", "cnName": "S23 资产 · 卡 FAQ", "enId": "799:2640", "enName": "S23 Assets · Card FAQ EN", "note": "开卡须知/步骤/FAQ/失败/解冻说明合集" },
 
     { "key": "meInvite", "cnId": "557:1646", "cnName": "M01 我的 · 邀请规则", "enId": "557:4060", "enName": "M01 Me · Invite rules EN", "note": "一级已含邀请摘要；本页仅规则/明细" },
-    { "key": "meSecurity", "cnId": "557:1765", "cnName": "M02 我的 · 设备与资金密码", "enId": "557:4077", "enName": "M02 Me · Devices & PIN EN", "note": "一级已含 2FA/生物识别开关" },
-    { "key": "meHelp", "cnId": "557:1893", "cnName": "M03 我的 · 帮助中心", "enId": "557:4103", "enName": "M03 Me · Help EN" },
+    { "key": "meSecurity", "cnId": "557:1765", "cnName": "M02 我的 · 设备与资金密码", "enId": "557:4077", "enName": "M02 Me · Devices & PIN EN", "note": "一级无入口；备用二级" },
+    { "key": "meHelp", "cnId": "557:1893", "cnName": "M03 我的 · 帮助中心", "enId": "557:4103", "enName": "M03 Me · Help EN", "note": "一级仅入口行；FAQ 列表仍二级" },
     { "key": "meHelpDetail", "cnId": "557:2019", "cnName": "M04 我的 · 帮助详情", "enId": "557:4127", "enName": "M04 Me · Help detail EN" },
-    { "key": "meAbout", "cnId": "557:3271", "cnName": "M05 我的 · 关于 BitBank", "enId": "557:4142", "enName": "M05 Me · About EN" },
+    { "key": "meAbout", "cnId": "557:3271", "cnName": "M05 我的 · 关于 BitBank", "enId": "557:4142", "enName": "M05 Me · About EN", "note": "一级已展示版本号；长文仍二级" },
     { "key": "meNotify", "cnId": "557:3396", "cnName": "M06 我的 · 通知设置（已下线）", "enId": "557:4165", "enName": "M06 Me · Notifications (retired)", "note": "一级已无通知；页已隐藏下线", "status": "retired" },
-    { "key": "mePerks", "cnId": "557:3522", "cnName": "M07 我的 · 权益详情", "enId": "557:4189", "enName": "M07 Me · Perks detail EN", "note": "权益列表入口" },
+    { "key": "mePerks", "cnId": "557:3522", "cnName": "M07 我的 · 权益详情（备用·一级已摘要）", "enId": "557:4189", "enName": "M07 Me · Perks detail (backup)", "note": "一级已含副文案+V3/费率/积分摘要；页已隐藏", "status": "retired" },
     { "key": "meAccount", "cnId": "557:3649", "cnName": "M08 我的 · 账户与钱包（已下线）", "enId": "557:4214", "enName": "M08 Me · Account (retired)", "note": "UID/地址已在身份卡；页已隐藏下线", "status": "retired" }
   ],
   "components": {
@@ -440,6 +440,25 @@
     "卡余额与资产余额有何区别？": "Card balance vs portfolio balance?",
     "提交工单": "Submit ticket",
     "请附上交易哈希或卡号后四位，便于核查。": "Include tx hash or last 4 card digits for faster review.",
-    "也可以返回帮助中心查看更多问题": "Or go back to Help for more topics"
+    "也可以返回帮助中心查看更多问题": "Or go back to Help for more topics",
+    "权益": "Perks",
+    "服务": "Services",
+    "等级越高，权益越多": "Higher level, more perks",
+    "等级权益": "Level perks",
+    "享受不同等级专属权益": "Exclusive benefits by level",
+    "专属费率": "Preferential rates",
+    "更低费率，更多收益": "Lower fees, more yield",
+    "优先通道": "Priority rails",
+    "专属通道，优先处理": "Dedicated rails, faster handling",
+    "积分": "Points",
+    "可用于兑换权益与礼品": "Redeem perks and gifts",
+    "连接 BTC 数字生活": "Connect to BTC digital life",
+    "数字支付": "Digital payments",
+    "全球上网": "Global connectivity",
+    "交易服务": "Trading services",
+    "探索更多服务": "Explore more services",
+    "分享给好友，双方得奖励": "Share with friends — both earn rewards",
+    "费率 -15%": "Fee -15%",
+    "积分 128": "Points 128"
   }
 }
