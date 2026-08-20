@@ -29,7 +29,7 @@
     { "key": "assetsPay", "cnId": "549:15135", "cnName": "03 Assets · BitPay", "enId": "260:635", "enName": "03 Assets · BitPay EN" },
     { "key": "assetsSim", "cnId": "549:15155", "cnName": "03 Assets · BitSIM", "enId": "260:814", "enName": "03 Assets · BitSIM EN" },
     { "key": "assetsSimActive", "cnId": "549:15175", "cnName": "03 Assets · BitSIM · 已开通", "enId": "338:935", "enName": "03 Assets · BitSIM · Active EN" },
-    { "key": "me", "cnId": "549:14990", "cnName": "04 Me / 我的", "enId": "174:517", "enName": "04 Me EN" },
+    { "key": "me", "cnId": "771:2707", "cnName": "04 Me / 我的", "enId": "784:1338", "enName": "04 Me EN", "note": "主稿；旧 549:14990 / 174:517 实验稿已隐藏" },
 
     { "key": "paySend", "cnId": "549:15551", "cnName": "S01 BitPay · 发起支付", "enId": "452:2350", "enName": "S01 BitPay · Send payment EN" },
     { "key": "paySendRail", "cnId": "757:1332", "cnName": "S01b BitPay · 发起支付 · 路径", "enId": "758:1170", "enName": "S01b BitPay · Send payment · Rail EN" },
