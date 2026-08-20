@@ -32,6 +32,9 @@
     { "key": "me", "cnId": "549:14990", "cnName": "04 Me / 我的", "enId": "174:517", "enName": "04 Me EN" },
 
     { "key": "paySend", "cnId": "549:15551", "cnName": "S01 BitPay · 发起支付", "enId": "452:2350", "enName": "S01 BitPay · Send payment EN" },
+    { "key": "paySendRail", "cnId": "757:1332", "cnName": "S01b BitPay · 发起支付 · 路径", "enId": "758:1170", "enName": "S01b BitPay · Send payment · Rail EN" },
+    { "key": "paySendAmount", "cnId": "757:1525", "cnName": "S01c BitPay · 发起支付 · 金额", "enId": "758:1365", "enName": "S01c BitPay · Send payment · Amount EN" },
+    { "key": "paySendChannel", "cnId": "757:1718", "cnName": "S01d BitPay · 发起支付 · 通道", "enId": "758:1560", "enName": "S01d BitPay · Send payment · Channel EN" },
     { "key": "simConfigure", "cnId": "549:15563", "cnName": "S02 BitSIM · 配置开通", "enId": "452:2362", "enName": "S02 BitSIM · Configure EN" },
     { "key": "simUsageRenew", "cnId": "549:15575", "cnName": "S03 BitSIM · 用量续购", "enId": "452:2374", "enName": "S03 BitSIM · Usage renew EN" },
 
@@ -254,6 +257,11 @@
     "确认配置并开通": "Confirm & activate",
     "确认续购": "Confirm renew",
     "发起支付": "Send payment",
+    "用途": "Intent",
+    "路径": "Rail",
+    "金额": "Amount",
+    "通道": "Channel",
+    "下一步": "Next",
     "用途 → 路径 → 金额 → 通道，本页完成": "Intent → rail → amount → channel",
     "选用途、路径与金额后确认": "Pick intent, rail and amount, then confirm",
     "选择覆盖范围、流量与天数": "Pick coverage, data and days",
