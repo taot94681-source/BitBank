@@ -29,7 +29,7 @@
     { "key": "assetsPay", "cnId": "549:15135", "cnName": "03 Assets · BitPay", "enId": "260:635", "enName": "03 Assets · BitPay EN" },
     { "key": "assetsSim", "cnId": "549:15155", "cnName": "03 Assets · BitSIM", "enId": "260:814", "enName": "03 Assets · BitSIM EN" },
     { "key": "assetsSimActive", "cnId": "549:15175", "cnName": "03 Assets · BitSIM · 已开通", "enId": "338:935", "enName": "03 Assets · BitSIM · Active EN" },
-    { "key": "me", "cnId": "802:1508", "cnName": "04 Me / 我的", "enId": "803:1278", "enName": "04 Me EN", "note": "正式稿：邀请大卡+权益列表+服务2×2+更多；身份条保留" },
+    { "key": "me", "cnId": "802:1508", "cnName": "04 Me / 我的", "enId": "803:1278", "enName": "04 Me EN", "note": "正式稿：邀请大卡+权益三格直出(无积分/无二级)+服务2×2+更多；身份条保留" },
     { "key": "meLegacySwitch", "cnId": "771:2707", "cnName": "04 Me / 我的（旧开关·备用）", "enId": "784:1338", "enName": "04 Me EN（旧开关·备用）", "note": "已隐藏；安全/通知开关旧稿", "status": "retired" },
     { "key": "meSchemeB", "cnId": "802:1406", "cnName": "04 Me · 方案2 B（备用）", "enId": "803:1176", "enName": "04 Me EN · Scheme2 B（备用）", "note": "已隐藏", "status": "retired" },
     { "key": "meSchemeBoard", "cnId": "801:1398", "cnName": "我的 · 方案2 对照", "enId": null, "note": "已隐藏", "status": "retired" },
