@@ -17,10 +17,10 @@
 
 | 版块 | 副标 | 行 | 右侧 |
 |---|---|---|---|
-| **权益** | 等级与专属权益 | 等级权益 / 专属费率 / 优先通道 / 积分 | 勾 / 勾 / `›` / `128 ›` |
+| **权益** | 等级与专属权益 | 等级权益 / 专属费率 / 优先通道 / 积分 | 均为展示入口 `›`；积分可带数值 `128 ›` |
 | **服务** | 连接 BTC 数字生活 | BitPay / BitSIM / BTCX / 更多 | 均为 `›` |
 
-EN：Perks（Level perks / Preferential rates / Priority rails / Points）· Services（BitPay / BitSIM / BTCX / More）
+纯展示入口，**无开关/勾选**。EN：Perks（Level perks / Preferential rates / Priority rails / Points）· Services（BitPay / BitSIM / BTCX / More）
 
 版式：外层大卡 + 标题行（可带右上装饰）+ **全宽列表行**（左图标占位 + 文案 FILL + 右状态）。禁止四宫格子卡。图标/装饰：**等设计图**。
 
