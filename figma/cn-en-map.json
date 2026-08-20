@@ -79,7 +79,7 @@
     { "key": "meHelpDetail", "cnId": "557:2019", "cnName": "M04 我的 · 帮助详情", "enId": "557:4127", "enName": "M04 Me · Help detail EN" },
     { "key": "meAbout", "cnId": "557:3271", "cnName": "M05 我的 · 关于 BitBank", "enId": "557:4142", "enName": "M05 Me · About EN", "note": "一级已展示版本号；长文仍二级" },
     { "key": "meNotify", "cnId": "557:3396", "cnName": "M06 我的 · 通知设置（已下线）", "enId": "557:4165", "enName": "M06 Me · Notifications (retired)", "note": "一级已无通知；页已隐藏下线", "status": "retired" },
-    { "key": "mePerks", "cnId": "557:3522", "cnName": "M07 我的 · 权益详情（备用·一级已摘要）", "enId": "557:4189", "enName": "M07 Me · Perks detail (backup)", "note": "一级已含副文案+V3/费率/积分摘要；页已隐藏", "status": "retired" },
+    { "key": "mePerks", "cnId": "557:3522", "cnName": "M07 我的 · 权益详情（备用·一级已摘要）", "enId": "557:4189", "enName": "M07 Me · Perks detail (backup)", "note": "一级已直出等级/费率/优先；无积分；页已隐藏", "status": "retired" },
     { "key": "meAccount", "cnId": "557:3649", "cnName": "M08 我的 · 账户与钱包（已下线）", "enId": "557:4214", "enName": "M08 Me · Account (retired)", "note": "UID/地址已在身份卡；页已隐藏下线", "status": "retired" }
   ],
   "components": {
