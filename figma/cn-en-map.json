@@ -38,9 +38,9 @@
     { "key": "paySendRail", "cnId": "757:1332", "cnName": "S01b BitPay · 发起支付 · 路径", "enId": "758:1170", "enName": "S01b BitPay · Send payment · Rail EN" },
     { "key": "paySendAmount", "cnId": "757:1525", "cnName": "S01c BitPay · 发起支付 · 金额", "enId": "758:1365", "enName": "S01c BitPay · Send payment · Amount EN" },
     { "key": "paySendChannel", "cnId": "757:1718", "cnName": "S01d BitPay · 发起支付 · 通道", "enId": "758:1560", "enName": "S01d BitPay · Send payment · Channel EN" },
-    { "key": "simConfigure", "cnId": "549:15563", "cnName": "S02 BitSIM · 配置开通", "enId": "452:2362", "enName": "S02 BitSIM · Configure EN", "note": "无大洲；国家列表+搜索；旅行流量套餐；下划线 Tab 非蜜蜂国旗芯片" },
-    { "key": "simLocalData", "cnId": "1003:1391", "cnName": "S07 BitSIM · 原生流量", "enId": "1005:1339", "enName": "S07 BitSIM · Local data EN", "note": "套餐商店·原生流量态；列表选国家+套餐详情+支付条" },
-    { "key": "simNumber", "cnId": "1003:1500", "cnName": "S08 BitSIM · 号码", "enId": "1005:1448", "enName": "S08 BitSIM · Number EN", "note": "套餐商店·虚拟号码态；月付号码套餐" },
+    { "key": "simConfigure", "cnId": "549:15563", "cnName": "S02 BitSIM · 配置开通", "enId": "452:2362", "enName": "S02 BitSIM · Configure EN", "note": "蜜蜂旅行16国；country-box固定高280搜索钉顶列表内滑；默认加拿大" },
+    { "key": "simLocalData", "cnId": "1003:1391", "cnName": "S07 BitSIM · 原生流量", "enId": "1005:1339", "enName": "S07 BitSIM · Local data EN", "note": "蜜蜂原生13国；country-box固定高300；默认阿联酋" },
+    { "key": "simNumber", "cnId": "1003:1500", "cnName": "S08 BitSIM · 号码", "enId": "1005:1448", "enName": "S08 BitSIM · Number EN", "note": "蜜蜂号码7国；country-box固定高260；默认加拿大" },
     { "key": "simUsageRenew", "cnId": "549:15575", "cnName": "S03 BitSIM · 用量续购", "enId": "452:2374", "enName": "S03 BitSIM · Usage renew EN" },
 
     { "key": "paySendSuccess", "cnId": "549:15587", "cnName": "S01 BitPay · 发起支付 · 成功", "enId": "452:2386", "enName": "S01 BitPay · Send payment · Success EN" },
