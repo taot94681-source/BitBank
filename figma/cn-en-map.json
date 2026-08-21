@@ -80,7 +80,7 @@
     { "key": "meAbout", "cnId": "557:3271", "cnName": "M05 我的 · 关于 BitBank", "enId": "557:4142", "enName": "M05 Me · About EN", "note": "一级已展示版本号；长文仍二级" },
     { "key": "meLanguage", "cnId": "942:1253", "cnName": "M09 我的 · 语言选择", "enId": "943:1180", "enName": "M09 Me · Language picker EN", "note": "底部半屏+两列语言卡；非蜜蜂竖列表；一级「语言」入口弹出" },
     { "key": "meBtcx", "cnId": "989:1253", "cnName": "M10 我的 · BTCX", "enId": "990:1201", "enName": "M10 Me · BTCX EN", "note": "我的·服务 2×2 BTCX 入口；持仓/快捷操作/共享池/交易模块" },
-    { "key": "meMoreServices", "cnId": "989:1317", "cnName": "M11 我的 · 更多服务", "enId": "990:1265", "enName": "M11 Me · More services EN", "note": "我的·服务 2×2 更多入口；生态服务目录+即将上线" },
+    { "key": "meMoreServices", "cnId": "989:1317", "cnName": "M11 我的 · 更多服务", "enId": "990:1265", "enName": "M11 Me · More services EN", "note": "仅预告/页内展开，无三级下钻；BitPay/BitSIM/BTCX/帮助从我的·服务或资产直达" },
     { "key": "meNotify", "cnId": "557:3396", "cnName": "M06 我的 · 通知设置（已下线）", "enId": "557:4165", "enName": "M06 Me · Notifications (retired)", "note": "一级已无通知；页已隐藏下线", "status": "retired" },
     { "key": "mePerks", "cnId": "557:3522", "cnName": "M07 我的 · 权益详情（备用·一级已摘要）", "enId": "557:4189", "enName": "M07 Me · Perks detail (backup)", "note": "一级已直出等级/费率/优先；无积分；页已隐藏", "status": "retired" },
     { "key": "meAccount", "cnId": "557:3649", "cnName": "M08 我的 · 账户与钱包（已下线）", "enId": "557:4214", "enName": "M08 Me · Account (retired)", "note": "UID/地址已在身份卡；页已隐藏下线", "status": "retired" }
